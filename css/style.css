@@ -350,6 +350,7 @@ li.nav-item{
 	overflow: hidden;
 	width: 100%;
 	background-color: #999;
+	background-image: url(../images/slide-img2.jpg);
 }
 .banner-content {
 	position: relative; 
